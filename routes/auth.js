@@ -4,6 +4,10 @@ module.exports = {
         console.log(req);
         console.log(req);
         console.log(req);
+        console.log(req);
+        console.log(req);
+
+
         if(req.isAuthenticated()) {
             console.log('로그인 된 사용자입니다.');
             console.log('로그인 된 사용자입니다.');
