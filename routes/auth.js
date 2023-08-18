@@ -14,6 +14,7 @@ module.exports = {
             console.log('로그인 된 사용자입니다.');
             console.log('로그인 된 사용자입니다.');
             console.log('개오바');
+            console.log('2트 드가제');
             next();
         }
         else {
